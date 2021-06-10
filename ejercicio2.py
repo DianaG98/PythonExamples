@@ -1,0 +1,6 @@
+cadena=input("Ingresa nombre: ")
+cadena=cadena.upper()
+print(cadena)
+cadena=cadena.lower()
+print(cadena)
+print("Num Caracteres: ",len(cadena))
